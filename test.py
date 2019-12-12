@@ -4,7 +4,7 @@ import cv2
 for Hd_Cam
 use cahnnels 1,2,3
 for Thermal_cam
-use channels 101..
+use channels 101, 102
 '''
 
 '''t = input("Press 1 for Thermal and 2 for HD: ")
